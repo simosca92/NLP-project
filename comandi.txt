@@ -1,0 +1,8 @@
+Comando per la generazione lenguage model file .lm (http://okapiframework.org/wiki/index.php?title=SRILM_Installation_and_Running_Tutorial)
+
+	./ngram-count -text [corpus] -lm [output_language_model] -order 3 -write [output_ngram_file_path]
+
+Comando per la generazione della fonetica
+
+	 g2p-seq2seq --interactive --model model_folder_path
+
