@@ -1,0 +1,50 @@
+Current configuration:
+[NAME]		[DEFLT]	[VALUE]
+-dictfn			/home/simone/Documenti/Elaborazione/project-NLP/etc/android_db.dic
+-example	no	no
+-fdictfn		/home/simone/Documenti/Elaborazione/project-NLP/etc/android_db.filler
+-help		no	no
+-ignorewpos	no	no
+-inCDmdef		
+-inCImdef		
+-lsnfn			/home/simone/Documenti/Elaborazione/project-NLP/etc/android_db_train.transcription
+-maxtriphones	100000	100000
+-minocc		1	1
+-n_state_pm	3	3
+-oalltphnmdef		
+-ocimdef		
+-ocountfn		
+-ountiedmdef		/home/simone/Documenti/Elaborazione/project-NLP/model_architecture/android_db.untied.mdef
+-phnlstfn		/home/simone/Documenti/Elaborazione/project-NLP/etc/android_db.phone
+-triphnlstfn		
+
+INFO: main.c(95): Will write untied mdef file /home/simone/Documenti/Elaborazione/project-NLP/model_architecture/android_db.untied.mdef
+INFO: mk_mdef_gen.c(189): 0 single word triphones in input phone list
+INFO: mk_mdef_gen.c(190): 0 word beginning triphones in input phone list
+INFO: mk_mdef_gen.c(191): 0 word internal triphones in input phone list
+INFO: mk_mdef_gen.c(192): 0 word ending triphones in input phone list
+INFO: mk_mdef_gen.c(280): Reading dict /home/simone/Documenti/Elaborazione/project-NLP/etc/android_db.dic
+INFO: mk_mdef_gen.c(322): 2 words in dict /home/simone/Documenti/Elaborazione/project-NLP/etc/android_db.dic
+INFO: mk_mdef_gen.c(280): Reading dict /home/simone/Documenti/Elaborazione/project-NLP/etc/android_db.filler
+INFO: mk_mdef_gen.c(322): 3 words in dict /home/simone/Documenti/Elaborazione/project-NLP/etc/android_db.filler
+INFO: mk_mdef_gen.c(442): 5 words in dictionary
+INFO: mk_mdef_gen.c(443): 0 unique single word triphones in dictionary
+INFO: mk_mdef_gen.c(444): 4 unique word beginning triphones in dictionary
+INFO: mk_mdef_gen.c(445): 13 unique word internal triphones in dictionary
+INFO: mk_mdef_gen.c(446): 6 unique word ending triphones in dictionary
+INFO: mk_mdef_gen.c(479): Out of vocabulary words in transcript will be mapped to SIL!
+INFO: mk_mdef_gen.c(593): 5 words in transcripts
+INFO: mk_mdef_gen.c(594): 0 single word triphones in transcripts
+INFO: mk_mdef_gen.c(595): 2 word beginning triphones in transcripts
+INFO: mk_mdef_gen.c(596): 13 word internal triphones in transcripts
+INFO: mk_mdef_gen.c(597): 2 word ending triphones in transcripts
+INFO: mk_mdef_gen.c(640): 17 triphones extracted from transcripts
+INFO: mk_mdef_gen.c(641): 17 unique triphones extracted from transcripts
+INFO: mk_mdef_gen.c(642): 17 triphones occur once in the transcripts
+INFO: mk_mdef_gen.c(643): 0 triphones occur twice in the transcripts
+INFO: mk_mdef_gen.c(644): 0 triphones occur thrice in the transcripts
+INFO: mk_mdef_gen.c(645): The rest of the triphones occur more than three times
+INFO: mk_mdef_gen.c(646): Count threshold is 1
+INFO: mk_mdef_gen.c(897): 14 n_base, 17 n_tri
+INFO: mk_mdef_gen.c(969): Wrote mdef file /home/simone/Documenti/Elaborazione/project-NLP/model_architecture/android_db.untied.mdef
+Mon Nov 14 20:50:20 2016
