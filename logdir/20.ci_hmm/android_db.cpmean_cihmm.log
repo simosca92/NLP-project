@@ -7,7 +7,7 @@ Current configuration:
 -igaufn			/home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.ci_cont_flatinitial/globalmean
 -imixwfn		
 -itmatfn		
--ncbout			42
+-ncbout			81
 -nmixwout		0
 -ntmatout		0
 -ofullgaufn		
@@ -16,7 +16,7 @@ Current configuration:
 -otmatfn		
 
 INFO: s3gau_io.c(169): Read /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.ci_cont_flatinitial/globalmean [1x1x1 array]
-INFO: s3gau_io.c(228): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.ci_cont_flatinitial/means [42x1x1 array]
+INFO: s3gau_io.c(228): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.ci_cont_flatinitial/means [81x1x1 array]
 gau 0 <= 0
 gau 1 <= 0
 gau 2 <= 0
@@ -59,4 +59,43 @@ gau 38 <= 0
 gau 39 <= 0
 gau 40 <= 0
 gau 41 <= 0
-Mon Nov 14 20:50:19 2016
+gau 42 <= 0
+gau 43 <= 0
+gau 44 <= 0
+gau 45 <= 0
+gau 46 <= 0
+gau 47 <= 0
+gau 48 <= 0
+gau 49 <= 0
+gau 50 <= 0
+gau 51 <= 0
+gau 52 <= 0
+gau 53 <= 0
+gau 54 <= 0
+gau 55 <= 0
+gau 56 <= 0
+gau 57 <= 0
+gau 58 <= 0
+gau 59 <= 0
+gau 60 <= 0
+gau 61 <= 0
+gau 62 <= 0
+gau 63 <= 0
+gau 64 <= 0
+gau 65 <= 0
+gau 66 <= 0
+gau 67 <= 0
+gau 68 <= 0
+gau 69 <= 0
+gau 70 <= 0
+gau 71 <= 0
+gau 72 <= 0
+gau 73 <= 0
+gau 74 <= 0
+gau 75 <= 0
+gau 76 <= 0
+gau 77 <= 0
+gau 78 <= 0
+gau 79 <= 0
+gau 80 <= 0
+Sat Dec  3 19:23:07 2016

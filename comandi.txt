@@ -6,3 +6,10 @@ Comando per la generazione della fonetica
 
 	 g2p-seq2seq --interactive --model model_folder_path
 
+TRAINING DEL MODELLO
+
+1) sphinxtrain -t android_db  setup 
+
+2) eliminare .DMP dal file di configurazione
+
+3) sphinxtrain run

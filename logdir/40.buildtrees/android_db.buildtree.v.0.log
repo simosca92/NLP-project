@@ -1,0 +1,69 @@
+Current configuration:
+[NAME]		[DEFLT]	[VALUE]
+-allphones	no	no
+-cntthresh	0.00001	1.000000e-05
+-csplitmax	100	2000
+-csplitmin	1	1
+-csplitthr	8e-4	0.000000e+00
+-example	no	no
+-fullvar	no	no
+-help		no	no
+-meanfn			/home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/means
+-mixwfn			/home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/mixture_weights
+-moddeffn		/home/simone/Documenti/Elaborazione/project-NLP/model_architecture/android_db.untied.mdef
+-mwfloor	1e-4	1.000000e-08
+-phone			v
+-psetfn			/home/simone/Documenti/Elaborazione/project-NLP/model_architecture/android_db.tree_questions
+-ssplitmax	5	7
+-ssplitmin	1	1
+-ssplitthr	8e-4	0.000000e+00
+-state			0
+-stwt			1.0,0.05,0.0,
+-treefn			/home/simone/Documenti/Elaborazione/project-NLP/trees/android_db.unpruned/v-0.dtree
+-ts2cbfn	.semi.	.cont.
+-varfloor	0.00001	1.000000e-05
+-varfn			/home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/variances
+
+INFO: main.c(223): Reading: /home/simone/Documenti/Elaborazione/project-NLP/model_architecture/android_db.untied.mdef
+INFO: model_def_io.c(573): Model definition info:
+INFO: model_def_io.c(574): 207 total models defined (27 base, 180 tri)
+INFO: model_def_io.c(575): 828 total states
+INFO: model_def_io.c(576): 621 total tied states
+INFO: model_def_io.c(577): 81 total tied CI states
+INFO: model_def_io.c(578): 27 total tied transition matrices
+INFO: model_def_io.c(579): 4 max state/model
+INFO: model_def_io.c(580): 4 min state/model
+INFO: main.c(242): Building trees for [v OO e i] through [v o1 e i]
+INFO: main.c(269): Covering states |[606 614]| == 9
+INFO: main.c(275): Reading: /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/mixture_weights
+INFO: s3mixw_io.c(173): Read /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/mixture_weights [9x1x1 array]
+INFO: main.c(311): 3 of 3 models have observation count greater than 0.000010
+INFO: main.c(95): nrm stwt: 0.952 0.048 0.000 
+INFO: s3gau_io.c(169): Read /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/means [621x1x1 array]
+INFO: s3gau_io.c(169): Read /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/variances [621x1x1 array]
+INFO: main.c(549): Reading: /home/simone/Documenti/Elaborazione/project-NLP/model_architecture/android_db.tree_questions
+INFO: main.c(588): 180 total simple questions (172 phone; 8 word bndry)
+INFO: main.c(590): 42 Left Only questions, and 42 Right Only questions
+INFO: dtree.c(1439): stop. leaf nodes are specific
+INFO: dtree.c(1478): Final simple tree
+|( QUESTION0_11_R 1 -9.751e+04 6.567e+02 4.837e+02
+|    ( - -4.240e+04 1 0)
+|    ( QUESTION3 -1 -5.445e+04 5.757e+02 2.653e+02
+|        ( - -4.727e+04 1 0)
+|        ( - -6.609e+03 1 0)))
+s>    ( QUESTION0_11_R 1 -9.751e+04 6.567e+02 4.837e+02
+s>        ( - -4.240e+04 1 0)
+s>        ( QUESTION3 -1 -5.445e+04 5.757e+02 2.653e+02
+s>            ( - -4.727e+04 1 0)
+s>            ( - -6.609e+03 1 0)))INFO: dtree.c(1315): Comp split 0
+INFO: dtree.c(1439): stop. leaf nodes are specific
+INFO: dtree.c(1478): Final simple tree
+|( QUESTION0_11_R 1 -4.948e+04 4.783e+02 2.507e+02
+|    ( - -4.240e+04 1 0)
+|    ( - -6.609e+03 1 0))
+s>    ( QUESTION0_11_R 1 -4.948e+04 4.783e+02 2.507e+02
+s>        ( - -4.240e+04 1 0)
+s>        ( - -6.609e+03 1 0))INFO: dtree.c(1315): Comp split 1
+INFO: dtree.c(1315): Comp split 2
+INFO: dtree.c(1318): stop. leaf nodes are specific
+Sat Dec  3 19:23:23 2016

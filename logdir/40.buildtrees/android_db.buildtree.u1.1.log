@@ -1,0 +1,81 @@
+Current configuration:
+[NAME]		[DEFLT]	[VALUE]
+-allphones	no	no
+-cntthresh	0.00001	1.000000e-05
+-csplitmax	100	2000
+-csplitmin	1	1
+-csplitthr	8e-4	0.000000e+00
+-example	no	no
+-fullvar	no	no
+-help		no	no
+-meanfn			/home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/means
+-mixwfn			/home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/mixture_weights
+-moddeffn		/home/simone/Documenti/Elaborazione/project-NLP/model_architecture/android_db.untied.mdef
+-mwfloor	1e-4	1.000000e-08
+-phone			u1
+-psetfn			/home/simone/Documenti/Elaborazione/project-NLP/model_architecture/android_db.tree_questions
+-ssplitmax	5	7
+-ssplitmin	1	1
+-ssplitthr	8e-4	0.000000e+00
+-state			1
+-stwt			1.0,0.05,0.0,
+-treefn			/home/simone/Documenti/Elaborazione/project-NLP/trees/android_db.unpruned/u1-1.dtree
+-ts2cbfn	.semi.	.cont.
+-varfloor	0.00001	1.000000e-05
+-varfn			/home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/variances
+
+INFO: main.c(223): Reading: /home/simone/Documenti/Elaborazione/project-NLP/model_architecture/android_db.untied.mdef
+INFO: model_def_io.c(573): Model definition info:
+INFO: model_def_io.c(574): 207 total models defined (27 base, 180 tri)
+INFO: model_def_io.c(575): 828 total states
+INFO: model_def_io.c(576): 621 total tied states
+INFO: model_def_io.c(577): 81 total tied CI states
+INFO: model_def_io.c(578): 27 total tied transition matrices
+INFO: model_def_io.c(579): 4 max state/model
+INFO: model_def_io.c(580): 4 min state/model
+INFO: main.c(242): Building trees for [u1 EE n b] through [u1 o n b]
+INFO: main.c(269): Covering states |[594 605]| == 12
+INFO: main.c(275): Reading: /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/mixture_weights
+INFO: s3mixw_io.c(173): Read /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/mixture_weights [12x1x1 array]
+INFO: main.c(311): 4 of 4 models have observation count greater than 0.000010
+INFO: main.c(95): nrm stwt: 0.045 0.909 0.045 
+INFO: s3gau_io.c(169): Read /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/means [621x1x1 array]
+INFO: s3gau_io.c(169): Read /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/variances [621x1x1 array]
+INFO: main.c(549): Reading: /home/simone/Documenti/Elaborazione/project-NLP/model_architecture/android_db.tree_questions
+INFO: main.c(588): 180 total simple questions (172 phone; 8 word bndry)
+INFO: main.c(590): 42 Left Only questions, and 42 Right Only questions
+INFO: dtree.c(1439): stop. leaf nodes are specific
+INFO: dtree.c(1478): Final simple tree
+|( WDBNDRY_B 0 -1.723e+05 2.105e+03 7.765e+02
+|    ( QUESTION2_3_L -1 -6.324e+04 2.820e+02 2.871e+02
+|        ( - -4.416e+04 1 0)
+|        ( - -1.880e+04 1 0))
+|    ( QUESTION0_0_R 1 -1.070e+05 1.502e+03 4.895e+02
+|        ( - -3.108e+04 1 0)
+|        ( - -7.440e+04 1 0)))
+s>    ( WDBNDRY_B 0 -1.723e+05 2.105e+03 7.765e+02
+s>        ( QUESTION2_3_L -1 -6.324e+04 2.820e+02 2.871e+02
+s>            ( - -4.416e+04 1 0)
+s>            ( - -1.880e+04 1 0))
+s>        ( QUESTION0_0_R 1 -1.070e+05 1.502e+03 4.895e+02
+s>            ( - -3.108e+04 1 0)
+s>            ( - -7.440e+04 1 0)))INFO: dtree.c(1315): Comp split 0
+INFO: dtree.c(1439): stop. leaf nodes are specific
+INFO: dtree.c(1478): Final simple tree
+|( QUESTION0_0_R 1 -1.070e+05 1.502e+03 4.895e+02
+|    ( - -3.108e+04 1 0)
+|    ( - -7.440e+04 1 0))
+s>    ( QUESTION0_0_R 1 -1.070e+05 1.502e+03 4.895e+02
+s>        ( - -3.108e+04 1 0)
+s>        ( - -7.440e+04 1 0))INFO: dtree.c(1439): stop. leaf nodes are specific
+INFO: dtree.c(1478): Final simple tree
+|( QUESTION2_3_L -1 -6.324e+04 2.820e+02 2.871e+02
+|    ( - -4.416e+04 1 0)
+|    ( - -1.880e+04 1 0))
+s>    ( QUESTION2_3_L -1 -6.324e+04 2.820e+02 2.871e+02
+s>        ( - -4.416e+04 1 0)
+s>        ( - -1.880e+04 1 0))INFO: dtree.c(1315): Comp split 1
+INFO: dtree.c(1315): Comp split 2
+INFO: dtree.c(1315): Comp split 3
+INFO: dtree.c(1318): stop. leaf nodes are specific
+Sat Dec  3 19:23:23 2016

@@ -19,19 +19,16 @@ Current configuration:
 -varfn			/home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/variances
 
 INFO: main.c(207): Reading and accumulating counts from /home/simone/Documenti/Elaborazione/project-NLP/bwaccumdir/android_db_buff_1
-INFO: s3mixw_io.c(117): Read /home/simone/Documenti/Elaborazione/project-NLP/bwaccumdir/android_db_buff_1/mixw_counts [93x1x1 array]
-INFO: s3tmat_io.c(118): Read /home/simone/Documenti/Elaborazione/project-NLP/bwaccumdir/android_db_buff_1/tmat_counts [14x3x4 array]
-INFO: s3gau_io.c(386): Read /home/simone/Documenti/Elaborazione/project-NLP/bwaccumdir/android_db_buff_1/gauden_counts with means with vars (2pass) [93x1x1 vector arrays]
+INFO: s3mixw_io.c(117): Read /home/simone/Documenti/Elaborazione/project-NLP/bwaccumdir/android_db_buff_1/mixw_counts [621x1x1 array]
+INFO: s3tmat_io.c(118): Read /home/simone/Documenti/Elaborazione/project-NLP/bwaccumdir/android_db_buff_1/tmat_counts [27x3x4 array]
+INFO: s3gau_io.c(386): Read /home/simone/Documenti/Elaborazione/project-NLP/bwaccumdir/android_db_buff_1/gauden_counts with means with vars (2pass) [621x1x1 vector arrays]
 INFO: main.c(321): -2passvar yes
-INFO: main.c(391): Normalizing mean for n_mgau= 93, n_stream= 1, n_density= 1
+INFO: main.c(391): Normalizing mean for n_mgau= 621, n_stream= 1, n_density= 1
 INFO: main.c(414): Normalizing var
-INFO: s3mixw_io.c(233): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/mixture_weights [93x1x1 array]
-INFO: s3tmat_io.c(176): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/transition_matrices [14x3x4 array]
-INFO: s3gau_io.c(228): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/means [93x1x1 array]
-INFO: s3gau_io.c(228): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/variances [93x1x1 array]
-Mon Nov 14 20:50:20 2016
-Current Overall Likelihood Per Frame = -107.884642857143
-Convergence ratio = 1.56319401867222e-13
-Likelihoods have converged! Baum Welch training completed!
-******************************TRAINING COMPLETE*************************
-Mon Nov 14 20:50:20 2016
+INFO: s3mixw_io.c(233): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/mixture_weights [621x1x1 array]
+INFO: s3tmat_io.c(176): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/transition_matrices [27x3x4 array]
+INFO: s3gau_io.c(228): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/means [621x1x1 array]
+INFO: s3gau_io.c(228): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/variances [621x1x1 array]
+Sat Dec  3 19:23:17 2016
+Current Overall Likelihood Per Frame = -142.737752161383
+Convergence ratio = 0.123209288727708
