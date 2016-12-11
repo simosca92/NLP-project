@@ -1,0 +1,8 @@
+<s> apri impostazioni </s>
+<s>apri contatti </s>
+<s> dove mi trovo <s>
+<s> apri calcolatrice </s>
+<s> apri calendario </s>
+<s> componi numero </s>
+<s> cancella numero </s>
+

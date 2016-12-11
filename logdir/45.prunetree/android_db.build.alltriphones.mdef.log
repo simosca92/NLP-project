@@ -34,4 +34,4 @@ INFO: mk_mdef_gen.c(445): 81 unique word internal triphones in dictionary
 INFO: mk_mdef_gen.c(446): 234 unique word ending triphones in dictionary
 INFO: mk_mdef_gen.c(897): 27 n_base, 571 n_tri
 INFO: mk_mdef_gen.c(969): Wrote mdef file /home/simone/Documenti/Elaborazione/project-NLP/model_architecture/android_db.alltriphones.mdef
-Sat Dec  3 19:23:23 2016
+Sun Dec 11 12:12:08 2016

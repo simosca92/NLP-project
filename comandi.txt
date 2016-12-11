@@ -13,3 +13,7 @@ TRAINING DEL MODELLO
 2) eliminare .DMP dal file di configurazione
 
 3) sphinxtrain run
+
+PROVARE IL MODELLO
+
+pocketsphinx_continuous -hmm model_parameters/android_db.cd_cont_2000 -lm etc/android_db.lm -dict etc/android_db.dic -inmic yes

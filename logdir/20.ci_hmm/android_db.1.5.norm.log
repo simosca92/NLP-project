@@ -29,6 +29,6 @@ INFO: s3mixw_io.c(233): Wrote /home/simone/Documenti/Elaborazione/project-NLP/mo
 INFO: s3tmat_io.c(176): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.ci_cont/transition_matrices [27x3x4 array]
 INFO: s3gau_io.c(228): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.ci_cont/means [81x1x1 array]
 INFO: s3gau_io.c(228): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.ci_cont/variances [81x1x1 array]
-Sat Dec  3 19:23:13 2016
-Current Overall Likelihood Per Frame = -144.939509111919
-Convergence ratio = 0.261871945871405
+Sun Dec 11 12:11:57 2016
+Current Overall Likelihood Per Frame = -145.461121320218
+Convergence ratio = 0.268529528339343

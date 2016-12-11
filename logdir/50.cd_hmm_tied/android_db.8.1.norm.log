@@ -9,24 +9,24 @@ Current configuration:
 -inmeanfn		
 -inmixwfn		
 -invarfn		
--meanfn			/home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_2000/means
--mixwfn			/home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_2000/mixture_weights
+-meanfn			/home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_200/means
+-mixwfn			/home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_200/mixture_weights
 -mmie		no	no
 -oaccumdir		
 -regmatfn		
 -tiedvar	no	no
--tmatfn			/home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_2000/transition_matrices
--varfn			/home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_2000/variances
+-tmatfn			/home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_200/transition_matrices
+-varfn			/home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_200/variances
 
 INFO: main.c(207): Reading and accumulating counts from /home/simone/Documenti/Elaborazione/project-NLP/bwaccumdir/android_db_buff_1
-INFO: s3mixw_io.c(117): Read /home/simone/Documenti/Elaborazione/project-NLP/bwaccumdir/android_db_buff_1/mixw_counts [597x1x8 array]
+INFO: s3mixw_io.c(117): Read /home/simone/Documenti/Elaborazione/project-NLP/bwaccumdir/android_db_buff_1/mixw_counts [281x1x8 array]
 INFO: s3tmat_io.c(118): Read /home/simone/Documenti/Elaborazione/project-NLP/bwaccumdir/android_db_buff_1/tmat_counts [27x3x4 array]
-INFO: s3gau_io.c(386): Read /home/simone/Documenti/Elaborazione/project-NLP/bwaccumdir/android_db_buff_1/gauden_counts with means with vars [597x1x8 vector arrays]
-INFO: main.c(391): Normalizing mean for n_mgau= 597, n_stream= 1, n_density= 8
+INFO: s3gau_io.c(386): Read /home/simone/Documenti/Elaborazione/project-NLP/bwaccumdir/android_db_buff_1/gauden_counts with means with vars [281x1x8 vector arrays]
+INFO: main.c(391): Normalizing mean for n_mgau= 281, n_stream= 1, n_density= 8
 INFO: main.c(414): Normalizing var
-INFO: s3mixw_io.c(233): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_2000/mixture_weights [597x1x8 array]
-INFO: s3tmat_io.c(176): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_2000/transition_matrices [27x3x4 array]
-INFO: s3gau_io.c(228): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_2000/means [597x1x8 array]
-INFO: s3gau_io.c(228): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_2000/variances [597x1x8 array]
-Sat Dec  3 19:23:42 2016
-Current Overall Likelihood Per Frame = -139.649027551546
+INFO: s3mixw_io.c(233): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_200/mixture_weights [281x1x8 array]
+INFO: s3tmat_io.c(176): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_200/transition_matrices [27x3x4 array]
+INFO: s3gau_io.c(228): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_200/means [281x1x8 array]
+INFO: s3gau_io.c(228): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_200/variances [281x1x8 array]
+Sun Dec 11 12:12:34 2016
+Current Overall Likelihood Per Frame = -142.198410982596
