@@ -29,9 +29,9 @@ INFO: s3mixw_io.c(233): Wrote /home/simone/Documenti/Elaborazione/project-NLP/mo
 INFO: s3tmat_io.c(176): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/transition_matrices [27x3x4 array]
 INFO: s3gau_io.c(228): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/means [633x1x1 array]
 INFO: s3gau_io.c(228): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/variances [633x1x1 array]
-Sun Dec 11 12:12:03 2016
-Current Overall Likelihood Per Frame = -143.281987532879
-Convergence ratio = 0.0752170936476659
+Mon Jan 23 11:22:16 2017
+Current Overall Likelihood Per Frame = -143.210652796524
+Convergence ratio = 0.085508773085337
 Likelihoods have converged! Baum Welch training completed!
 ******************************TRAINING COMPLETE*************************
-Sun Dec 11 12:12:03 2016
+Mon Jan 23 11:22:16 2017

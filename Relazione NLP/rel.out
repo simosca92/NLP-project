@@ -1,0 +1,14 @@
+\BOOKMARK [1][-]{section.1}{Introduzione}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Struttura del linguaggio}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Processo di riconoscimento}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Definizione dei modelli}{section.1}% 4
+\BOOKMARK [1][-]{section.2}{Tecnologie utilizzate}{}% 5
+\BOOKMARK [1][-]{section.3}{Preparazione dei dati}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Costruzione del dizionario}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{Costruzione del modello linguistico}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{Fase di apprendimento}{}% 9
+\BOOKMARK [2][-]{subsection.4.1}{Modello specializzato}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.2}{Modello di ligre nostro}{section.4}% 11
+\BOOKMARK [1][-]{section.5}{Risultati ottenuti}{}% 12
+\BOOKMARK [1][-]{section.6}{Applicativo Android}{}% 13
+\BOOKMARK [1][-]{section.7}{Conclusioni}{}% 14

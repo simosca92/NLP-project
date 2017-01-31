@@ -42,16 +42,16 @@ INFO: main.c(95): nrm stwt: 0.000 0.048 0.952
 INFO: s3gau_io.c(169): Read /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/means [633x1x1 array]
 INFO: s3gau_io.c(169): Read /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/variances [633x1x1 array]
 INFO: main.c(549): Reading: /home/simone/Documenti/Elaborazione/project-NLP/model_architecture/android_db.tree_questions
-INFO: main.c(588): 180 total simple questions (172 phone; 8 word bndry)
-INFO: main.c(590): 42 Left Only questions, and 42 Right Only questions
+INFO: main.c(588): 178 total simple questions (170 phone; 8 word bndry)
+INFO: main.c(590): 40 Left Only questions, and 42 Right Only questions
 INFO: dtree.c(1439): stop. leaf nodes are specific
 INFO: dtree.c(1478): Final simple tree
-|( QUESTION0_9_R 1 -1.254e+05 1.045e+03 5.878e+02
-|    ( - -1.056e+05 1 0)
-|    ( - -1.874e+04 1 0))
-s>    ( QUESTION0_9_R 1 -1.254e+05 1.045e+03 5.878e+02
-s>        ( - -1.056e+05 1 0)
-s>        ( - -1.874e+04 1 0))INFO: dtree.c(1315): Comp split 0
+|( QUESTION0_11_R 1 -1.370e+05 1.063e+03 6.438e+02
+|    ( - -2.016e+04 1 0)
+|    ( - -1.158e+05 1 0))
+s>    ( QUESTION0_11_R 1 -1.370e+05 1.063e+03 6.438e+02
+s>        ( - -2.016e+04 1 0)
+s>        ( - -1.158e+05 1 0))INFO: dtree.c(1315): Comp split 0
 INFO: dtree.c(1315): Comp split 1
 INFO: dtree.c(1318): stop. leaf nodes are specific
-Sun Dec 11 12:12:06 2016
+Mon Jan 23 11:22:19 2017
