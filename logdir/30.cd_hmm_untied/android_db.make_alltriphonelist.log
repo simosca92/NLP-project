@@ -47,4 +47,4 @@ INFO: mk_mdef_gen.c(645): The rest of the triphones occur more than three times
 INFO: mk_mdef_gen.c(646): Count threshold is 1
 INFO: mk_mdef_gen.c(897): 27 n_base, 184 n_tri
 INFO: mk_mdef_gen.c(969): Wrote mdef file /home/simone/Documenti/Elaborazione/project-NLP/model_architecture/android_db.untied.mdef
-Mon Jan 23 11:22:10 2017
+Thu Feb 16 16:24:23 2017

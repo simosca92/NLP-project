@@ -681,4 +681,4 @@ INFO: s3gau_io.c(228): Wrote /home/simone/Documenti/Elaborazione/project-NLP/mod
 INFO: main.c(561): Writing dest /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_initial/variances
 INFO: s3gau_io.c(228): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_initial/variances [281x1x1 array]
 [mx   277(1) +=    79] [mg   277(1) <-    79] [mx   279(2) +=    80] [mg   279(2) <-    80] 
-Mon Jan 23 11:22:22 2017
+Thu Feb 16 16:24:33 2017

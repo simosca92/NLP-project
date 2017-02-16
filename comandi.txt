@@ -14,15 +14,24 @@ TRAINING DEL MODELLO
 
 3) sphinxtrain run
 
+TRAINING MODELLO SPECIALIZZATO
+
+1)sphinx_fe -argfile voxforge_it_sphinx.cd_cont_2000/feat.params -samprate 16000 -c android_db_train.fileids -di wav -do . -ei wav -eo mfc -mswav yes
+
+2)./bw -hmmdir voxforge_it_sphinx.cd_cont_2000 -moddeffn voxforge_it_sphinx.cd_cont_2000/mdef.txt -ts2cbfn .cont. -feat 1s_c_d_dd -cmn batch -agc none -dictfn android_db.dic -ctlfn android_db_train.fileids -lsnfn android_db_train.transcription -accumdir . -lda voxforge_it_sphinx.cd_cont_2000/feature_transform
+
+3) ./map_adapt -moddeffn voxforge_it_sphinx.cd_cont_2000/mdef.txt -ts2cbfn .cont. -meanfn voxforge_it_sphinx.cd_cont_2000/means -varfn voxforge_it_sphinx.cd_cont_2000/variances -mixwfn voxforge_it_sphinx.cd_cont_2000/mixture_weights -tmatfn voxforge_it_sphinx.cd_cont_2000/transition_matrices -accumdir . -mapmeanfn it-adapt/means -mapvarfn it-adapt/variances -mapmixwfn it-adapt/mixture_weights -maptmatfn it-adapt/transition_matrices
+
+
 PROVARE IL MODELLO
 
-pocketsphinx_continuous -hmm model_parameters/android_db.cd_cont_2000 -lm etc/android_db.lm -dict etc/android_db.dic -inmic yes
+pocketsphinx_continuous -hmm model_parameters/android_db.cd_cont_200 -lm etc/android_db.lm -dict etc/android_db.dic -inmic yes
 
 TESTING ESTERNO
 
-pocketsphinx_batch  -adcin yes  -cepdir .  -cepext .wav  -ctl test.fileids  -lm android_db.lm  -dict android_db.dic  -hmm ../model_parameters/android_db.cd_cont_200  -hyp test.hyp
+1) pocketsphinx_batch  -adcin yes  -cepdir .  -cepext .wav  -ctl android_db_test.fileids  -lm android_db.lm  -dict android_db.dic  -hmm ../model_parameters/android_db.cd_cont_200  -hyp test.hyp
 
-word_align.pl test.transcription test.hyp 
+2) word_align.pl android_db_test.transcription test.hyp
 
 CUT FIRST COLUMN FROM A FILE
 
@@ -32,19 +41,19 @@ FIRST RESULT
 
 VOXFORGE
 	
-	TOTAL Words: 118 Correct: 89 Errors: 32
-	TOTAL Percent correct = 75.42% Error = 27.12% Accuracy = 72.88%
-	TOTAL Insertions: 3 Deletions: 12 Substitutions: 17
+	TOTAL Words: 441 Correct: 319 Errors: 163
+	TOTAL Percent correct = 72.34% Error = 36.96% Accuracy = 63.04%
+	TOTAL Insertions: 41 Deletions: 41 Substitutions: 81
 
 VOXFORGE ADOPTION
 
-	TOTAL Words: 118 Correct: 41 Errors: 80
-	TOTAL Percent correct = 34.75% Error = 67.80% Accuracy = 32.20%
-	TOTAL Insertions: 3 Deletions: 35 Substitutions: 42
+	TOTAL Words: 441 Correct: 399 Errors: 75
+	TOTAL Percent correct = 90.48% Error = 17.01% Accuracy = 82.99%
+	TOTAL Insertions: 33 Deletions: 3 Substitutions: 39
 
 OUR MODEL
 
-	TOTAL Words: 118 Correct: 118 Errors: 0
-	TOTAL Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
-	TOTAL Insertions: 0 Deletions: 0 Substitutions: 0
+	TOTAL Words: 441 Correct: 418 Errors: 31
+	TOTAL Percent correct = 94.78% Error = 7.03% Accuracy = 92.97%
+	TOTAL Insertions: 8 Deletions: 5 Substitutions: 18
 

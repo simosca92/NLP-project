@@ -35,4 +35,4 @@ INFO: main.c(1110):  21 questions from state 1
 INFO: main.c(1109): Done building questions using state 2
 INFO: main.c(1110):  20 questions from state 2
 INFO: main.c(1115): Stored questions in /home/simone/Documenti/Elaborazione/project-NLP/model_architecture/android_db.tree_questions
-Mon Jan 23 11:22:17 2017
+Thu Feb 16 16:24:30 2017

@@ -86,14 +86,354 @@ cancella numero  (passaretti-/PASSARETTI/FILE_11)
 cancella numero  (passaretti-FILE_11)
 Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
 Insertions: 0 Deletions: 0 Substitutions: 0
-apri impostazioni impostazioni impostazioni  (gian-/GIAN/FILE_1)
-apri impostazioni impostazioni impostazioni  (gian-FILE_1)
-Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+apri impostazioni  (gian-/GIAN/FILE_1)
+apri impostazioni  (gian-FILE_1)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
 Insertions: 0 Deletions: 0 Substitutions: 0
-apri contatti contatti contatti  (gian-/GIAN/FILE_2)
-apri contatti contatti contatti  (gian-FILE_2)
-Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+apri contatti  (gian-/GIAN/FILE_2)
+apri contatti  (gian-FILE_2)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
 Insertions: 0 Deletions: 0 Substitutions: 0
-TOTAL Words: 154 Correct: 153 Errors: 6
-TOTAL Percent correct = 99.35% Error = 3.90% Accuracy = 96.10%
-TOTAL Insertions: 5 Deletions: 0 Substitutions: 1
+dove mi  trovo  (gian-/GIAN/FILE_3)
+dove mi  trovo  (gian-FILE_3)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri calcolatrice  (gian-/GIAN/FILE_4)
+apri calcolatrice  (gian-FILE_4)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri calendario  (gian-/GIAN/FILE_5)
+apri calendario  (gian-FILE_5)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+componi numero  (gian-/GIAN/FILE_6)
+componi numero  (gian-FILE_6)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+chiama TRE tre UNO    sei TRE cinque sei sei zero QUATTRO  (gian-/GIAN/FILE_7)
+chiama *** tre NUMERO sei *** cinque sei sei zero OTTO     (gian-FILE_7)
+Words: 11 Correct: 7 Errors: 4 Percent correct = 63.64% Error = 36.36% Accuracy = 63.64%
+Insertions: 0 Deletions: 2 Substitutions: 2
+chiama nove nove tre due zero due sette nove otto uno  (gian-/GIAN/FILE_8)
+chiama nove nove tre due zero due sette nove otto uno  (gian-FILE_8)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+chiama sette sette sette uno zero cinque zero due otto nove  (gian-/GIAN/FILE_9)
+chiama sette sette sette uno zero cinque zero due otto nove  (gian-FILE_9)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+chiama zero due sette otto QUATTRO due QUATTRO otto otto tre  (gian-/GIAN/FILE_10)
+chiama zero due sette otto OTTO    due OTTO    otto otto tre  (gian-FILE_10)
+Words: 11 Correct: 9 Errors: 2 Percent correct = 81.82% Error = 18.18% Accuracy = 81.82%
+Insertions: 0 Deletions: 0 Substitutions: 2
+cancella numero  (gian-/GIAN/FILE_11)
+cancella numero  (gian-FILE_11)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri impostazioni  (ricc-/RICC/FILE_1)
+apri impostazioni  (ricc-FILE_1)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri contatti  (ricc-/RICC/FILE_2)
+apri contatti  (ricc-FILE_2)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+dove mi  trovo  (ricc-/RICC/FILE_3)
+dove mi  trovo  (ricc-FILE_3)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri calcolatrice  (ricc-/RICC/FILE_4)
+apri calcolatrice  (ricc-FILE_4)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri calendario  (ricc-/RICC/FILE_5)
+apri calendario  (ricc-FILE_5)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+componi numero  (ricc-/RICC/FILE_6)
+componi numero  (ricc-FILE_6)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+chiama tre tre uno sei tre cinque sei sei zero quattro  (ricc-/RICC/FILE_7)
+chiama tre tre uno sei tre cinque sei sei zero quattro  (ricc-FILE_7)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+chiama NOVE    nove tre due zero due sette nove otto uno  (ricc-/RICC/FILE_8)
+chiama COMPONI nove tre due zero due sette nove otto uno  (ricc-FILE_8)
+Words: 11 Correct: 10 Errors: 1 Percent correct = 90.91% Error = 9.09% Accuracy = 90.91%
+Insertions: 0 Deletions: 0 Substitutions: 1
+chiama sette sette sette uno zero cinque zero due otto NOVE  (ricc-/RICC/FILE_9)
+chiama sette sette sette uno zero cinque zero due otto DOVE  (ricc-FILE_9)
+Words: 11 Correct: 10 Errors: 1 Percent correct = 90.91% Error = 9.09% Accuracy = 90.91%
+Insertions: 0 Deletions: 0 Substitutions: 1
+chiama zero due sette otto quattro due quattro otto otto tre  (ricc-/RICC/FILE_10)
+chiama zero due sette otto quattro due quattro otto otto tre  (ricc-FILE_10)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+cancella numero  (ricc-/RICC/FILE_11)
+cancella numero  (ricc-FILE_11)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri impostazioni  (grillo-/GRILLO/FILE_1)
+apri impostazioni  (grillo-FILE_1)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri contatti  (grillo-/GRILLO/FILE_2)
+apri contatti  (grillo-FILE_2)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+dove mi  trovo  (grillo-/GRILLO/FILE_3)
+dove mi  trovo  (grillo-FILE_3)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri calcolatrice  (grillo-/GRILLO/FILE_4)
+apri calcolatrice  (grillo-FILE_4)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri calendario  (grillo-/GRILLO/FILE_5)
+apri calendario  (grillo-FILE_5)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+componi numero  (grillo-/GRILLO/FILE_6)
+componi numero  (grillo-FILE_6)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+chiama tre tre uno sei tre cinque sei sei zero quattro  (grillo-/GRILLO/FILE_7)
+chiama tre tre uno sei tre cinque sei sei zero quattro  (grillo-FILE_7)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+chiama nove nove tre due zero due sette nove otto uno  (grillo-/GRILLO/FILE_8)
+chiama nove nove tre due zero due sette nove otto uno  (grillo-FILE_8)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+chiama sette sette sette uno zero cinque zero due otto nove  (grillo-/GRILLO/FILE_9)
+chiama sette sette sette uno zero cinque zero due otto nove  (grillo-FILE_9)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+chiama zero due sette otto quattro due quattro otto otto tre  (grillo-/GRILLO/FILE_10)
+chiama zero due sette otto quattro due quattro otto otto tre  (grillo-FILE_10)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+cancella numero  (grillo-/GRILLO/FILE_11)
+cancella numero  (grillo-FILE_11)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri impostazioni  (chiara3-/CHIARA3/FILE_1)
+apri impostazioni  (chiara3-FILE_1)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri contatti  (chiara3-/CHIARA3/FILE_2)
+apri contatti  (chiara3-FILE_2)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+dove mi  trovo  (chiara3-/CHIARA3/FILE_3)
+dove mi  trovo  (chiara3-FILE_3)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri calcolatrice  (chiara3-/CHIARA3/FILE_4)
+apri calcolatrice  (chiara3-FILE_4)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri calendario  (chiara3-/CHIARA3/FILE_5)
+apri calendario  (chiara3-FILE_5)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+componi numero  (chiara3-/CHIARA3/FILE_6)
+componi numero  (chiara3-FILE_6)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+chiama tre tre uno sei tre CINQUE sei sei zero quattro  (chiara3-/CHIARA3/FILE_7)
+chiama tre tre uno sei tre DUE    sei sei zero quattro  (chiara3-FILE_7)
+Words: 11 Correct: 10 Errors: 1 Percent correct = 90.91% Error = 9.09% Accuracy = 90.91%
+Insertions: 0 Deletions: 0 Substitutions: 1
+chiama *** NOVE   nove tre due *** ZERO due sette ***    NOVE otto *** UNO   (chiara3-/CHIARA3/FILE_8)
+chiama UNO CHIAMA nove tre due SEI DOVE due sette CHIAMA TRE  otto DUE NOVE  (chiara3-FILE_8)
+Words: 11 Correct: 7 Errors: 8 Percent correct = 63.64% Error = 72.73% Accuracy = 27.27%
+Insertions: 4 Deletions: 0 Substitutions: 4
+chiama sette *** SETTE sette uno zero cinque zero due OTTO   nove  (chiara3-/CHIARA3/FILE_9)
+chiama sette SEI TRE   sette uno zero cinque zero due CHIAMA nove  (chiara3-FILE_9)
+Words: 11 Correct: 9 Errors: 3 Percent correct = 81.82% Error = 27.27% Accuracy = 72.73%
+Insertions: 1 Deletions: 0 Substitutions: 2
+chiama zero due sette otto quattro due quattro ***    OTTO   OTTO   tre  (chiara3-/CHIARA3/FILE_10)
+chiama zero due sette otto quattro due quattro CHIAMA CHIAMA CHIAMA tre  (chiara3-FILE_10)
+Words: 11 Correct: 9 Errors: 3 Percent correct = 81.82% Error = 27.27% Accuracy = 72.73%
+Insertions: 1 Deletions: 0 Substitutions: 2
+cancella numero  (chiara3-/CHIARA3/FILE_11)
+cancella numero  (chiara3-FILE_11)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri impostazioni  (anna2-/ANNA2/FILE_1)
+apri impostazioni  (anna2-FILE_1)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri contatti  (anna2-/ANNA2/FILE_2)
+apri contatti  (anna2-FILE_2)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+dove mi  trovo  (anna2-/ANNA2/FILE_3)
+dove mi  trovo  (anna2-FILE_3)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri calcolatrice  (anna2-/ANNA2/FILE_4)
+apri calcolatrice  (anna2-FILE_4)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri calendario  (anna2-/ANNA2/FILE_5)
+apri calendario  (anna2-FILE_5)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+componi numero  (anna2-/ANNA2/FILE_6)
+componi numero  (anna2-FILE_6)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+chiama tre tre uno sei tre cinque sei sei zero quattro  (anna2-/ANNA2/FILE_7)
+chiama tre tre uno sei tre cinque sei sei zero quattro  (anna2-FILE_7)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+chiama nove nove tre due zero due sette nove otto uno  (anna2-/ANNA2/FILE_8)
+chiama nove nove tre due zero due sette nove otto uno  (anna2-FILE_8)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+chiama sette sette sette uno zero cinque zero due otto nove  (anna2-/ANNA2/FILE_9)
+chiama sette sette sette uno zero cinque zero due otto nove  (anna2-FILE_9)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+chiama zero due sette otto quattro due quattro otto otto tre  (anna2-/ANNA2/FILE_10)
+chiama zero due sette otto quattro due quattro otto otto tre  (anna2-FILE_10)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+cancella numero  (anna2-/ANNA2/FILE_11)
+cancella numero  (anna2-FILE_11)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri impostazioni  (paki-/PAKI/FILE_1)
+apri impostazioni  (paki-FILE_1)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri contatti  (paki-/PAKI/FILE_2)
+apri contatti  (paki-FILE_2)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+dove mi  trovo  (paki-/PAKI/FILE_3)
+dove mi  trovo  (paki-FILE_3)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri calcolatrice  (paki-/PAKI/FILE_4)
+apri calcolatrice  (paki-FILE_4)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri calendario  (paki-/PAKI/FILE_5)
+apri calendario  (paki-FILE_5)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+chiama tre tre uno sei tre cinque sei sei zero quattro  (paki-/PAKI/FILE_7)
+chiama tre tre uno sei tre cinque sei sei zero quattro  (paki-FILE_7)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+chiama nove nove tre due zero due sette nove otto uno  (paki-/PAKI/FILE_8)
+chiama nove nove tre due zero due sette nove otto uno  (paki-FILE_8)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+chiama sette sette sette uno zero cinque zero DUE    otto nove  (paki-/PAKI/FILE_9)
+chiama sette sette sette uno zero cinque zero NUMERO otto nove  (paki-FILE_9)
+Words: 11 Correct: 10 Errors: 1 Percent correct = 90.91% Error = 9.09% Accuracy = 90.91%
+Insertions: 0 Deletions: 0 Substitutions: 1
+chiama zero due *** sette otto quattro due quattro otto otto tre  (paki-/PAKI/FILE_10)
+chiama zero due TRE sette otto quattro due quattro otto otto tre  (paki-FILE_10)
+Words: 11 Correct: 11 Errors: 1 Percent correct = 100.00% Error = 9.09% Accuracy = 90.91%
+Insertions: 1 Deletions: 0 Substitutions: 0
+cancella numero  (paki-/PAKI/FILE_11)
+cancella numero  (paki-FILE_11)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri impostazioni  (DAVID-/DAVID/FILE_1)
+apri impostazioni  (DAVID-FILE_1)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri contatti  (DAVID-/DAVID/FILE_2)
+apri contatti  (DAVID-FILE_2)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+dove mi  trovo  (DAVID-/DAVID/FILE_3)
+dove mi  trovo  (DAVID-FILE_3)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri calcolatrice  (DAVID-/DAVID/FILE_4)
+apri calcolatrice  (DAVID-FILE_4)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri calendario  (DAVID-/DAVID/FILE_5)
+apri calendario  (DAVID-FILE_5)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+componi numero  (DAVID-/DAVID/FILE_6)
+componi numero  (DAVID-FILE_6)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+chiama TRE  TRE    uno sei TRE  cinque sei sei zero quattro  (DAVID-/DAVID/FILE_7)
+chiama DOVE NUMERO uno sei DOVE cinque sei sei zero quattro  (DAVID-FILE_7)
+Words: 11 Correct: 8 Errors: 3 Percent correct = 72.73% Error = 27.27% Accuracy = 72.73%
+Insertions: 0 Deletions: 0 Substitutions: 3
+chiama NOVE   nove tre due zero DUE    sette nove otto UNO     (DAVID-/DAVID/FILE_8)
+chiama NUMERO nove tre due zero NUMERO sette nove otto NUMERO  (DAVID-FILE_8)
+Words: 11 Correct: 8 Errors: 3 Percent correct = 72.73% Error = 27.27% Accuracy = 72.73%
+Insertions: 0 Deletions: 0 Substitutions: 3
+chiama sette sette sette uno zero cinque zero due otto nove  (DAVID-/DAVID/FILE_9)
+chiama sette sette sette uno zero cinque zero due otto nove  (DAVID-FILE_9)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+chiama zero due sette otto quattro due quattro otto otto tre  (DAVID-/DAVID/FILE_10)
+chiama zero due sette otto quattro due quattro otto otto tre  (DAVID-FILE_10)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+cancella numero  (DAVID-/DAVID/FILE_11)
+cancella numero  (DAVID-FILE_11)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri impostazioni  (Christian-/CHRISTIAN/FILE_1)
+apri impostazioni  (Christian-FILE_1)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri contatti  (Christian-/CHRISTIAN/FILE_2)
+apri contatti  (Christian-FILE_2)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+dove mi  trovo  (Christian-/CHRISTIAN/FILE_3)
+dove mi  trovo  (Christian-FILE_3)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri calcolatrice  (Christian-/CHRISTIAN/FILE_4)
+apri calcolatrice  (Christian-FILE_4)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+apri calendario  (Christian-/CHRISTIAN/FILE_5)
+apri calendario  (Christian-FILE_5)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+componi numero  (Christian-/CHRISTIAN/FILE_6)
+componi numero  (Christian-FILE_6)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+chiama tre tre uno sei tre cinque sei sei zero quattro  (Christian-/CHRISTIAN/FILE_7)
+chiama tre tre uno sei tre cinque sei sei zero quattro  (Christian-FILE_7)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+chiama NOVE nove tre due zero due sette nove otto uno  (Christian-/CHRISTIAN/FILE_8)
+chiama DUE  nove tre due zero due sette nove otto uno  (Christian-FILE_8)
+Words: 11 Correct: 10 Errors: 1 Percent correct = 90.91% Error = 9.09% Accuracy = 90.91%
+Insertions: 0 Deletions: 0 Substitutions: 1
+chiama sette sette sette uno zero cinque zero due otto nove  (Christian-/CHRISTIAN/FILE_9)
+chiama sette sette sette uno zero cinque zero due otto nove  (Christian-FILE_9)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+CHIAMA zero due sette otto quattro due quattro otto otto tre  (Christian-/CHRISTIAN/FILE_10)
+ZERO   zero due sette otto quattro due quattro otto otto tre  (Christian-FILE_10)
+Words: 11 Correct: 10 Errors: 1 Percent correct = 90.91% Error = 9.09% Accuracy = 90.91%
+Insertions: 0 Deletions: 0 Substitutions: 1
+cancella numero  (Christian-/CHRISTIAN/FILE_11)
+cancella numero  (Christian-FILE_11)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+TOTAL Words: 616 Correct: 589 Errors: 39
+TOTAL Percent correct = 95.62% Error = 6.33% Accuracy = 93.67%
+TOTAL Insertions: 12 Deletions: 2 Substitutions: 25

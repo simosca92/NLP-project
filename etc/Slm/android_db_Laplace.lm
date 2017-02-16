@@ -1,0 +1,74 @@
+
+\data\
+ngram 1=24
+ngram 2=40
+
+\1-grams:
+-0.5473212	</s>
+-99	<s>	-0.415098
+-1.127105	apri	-0.09738736
+-1.525045	calcolatrice	0.107045
+-1.525045	calendario	0.107045
+-1.525045	cancella	-0.01789374
+-1.525045	chiama	0.107045
+-1.525045	cinque	0.107045
+-1.525045	componi	-0.01789374
+-1.525045	contatti	0.107045
+-1.525045	dove	-0.02462712
+-1.525045	due	0.107045
+-1.525045	impostazioni	0.107045
+-1.525045	mi	-0.02462712
+-1.525045	nove	0.107045
+-1.348954	numero	0.08931623
+-1.525045	otto	0.107045
+-1.525045	quattro	0.107045
+-1.525045	sei	0.107045
+-1.525045	sette	0.107045
+-1.525045	tre	0.107045
+-1.525045	trovo	0.107045
+-1.525045	uno	0.107045
+-1.525045	zero	0.107045
+
+\2-grams:
+-0.9138138	<s> apri
+-1.311754	<s> cancella
+-1.311754	<s> chiama
+-1.311754	<s> cinque
+-1.311754	<s> componi
+-1.311754	<s> dove
+-1.311754	<s> due
+-1.311754	<s> nove
+-1.311754	<s> otto
+-1.311754	<s> quattro
+-1.311754	<s> sei
+-1.311754	<s> sette
+-1.311754	<s> tre
+-1.311754	<s> uno
+-1.311754	<s> zero
+-1.130334	apri calcolatrice
+-1.130334	apri calendario
+-1.130334	apri contatti
+-1.130334	apri impostazioni
+-1.079181	calcolatrice </s>
+-1.079181	calendario </s>
+-1.079181	cancella numero
+-1.079181	chiama </s>
+-1.079181	cinque </s>
+-1.079181	componi numero
+-1.079181	contatti </s>
+-1.079181	dove mi
+-1.079181	due </s>
+-1.079181	impostazioni </s>
+-1.079181	mi trovo
+-1.079181	nove </s>
+-0.9208187	numero </s>
+-1.079181	otto </s>
+-1.079181	quattro </s>
+-1.079181	sei </s>
+-1.079181	sette </s>
+-1.079181	tre </s>
+-1.079181	trovo </s>
+-1.079181	uno </s>
+-1.079181	zero </s>
+
+\end\

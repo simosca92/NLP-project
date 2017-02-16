@@ -1,8 +1,18 @@
-<s> apri impostazioni </s>
-<s>apri contatti </s>
-<s> dove mi trovo <s>
-<s> apri calcolatrice </s>
-<s> apri calendario </s>
-<s> componi numero </s>
-<s> cancella numero </s>
-
+apri impostazioni
+apri contatti
+dove mi trovo
+apri calcolatrice
+apri calendario
+componi numero
+cancella numero
+chiama
+zero
+uno
+due
+tre
+quattro
+cinque
+sei
+sette
+otto
+nove

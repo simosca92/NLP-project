@@ -1,0 +1,10 @@
+registrazioni: 1  acc  100    error: 0
+registrazioni: 2  acc: 95.89  error: 4.11
+registrazioni: 3  acc: 94.15  error: 5.85
+registrazioni: 4  acc: 94.70  error: 5.30
+registrazioni: 5  acc: 95.67  error: 4.33
+registrazioni: 6  acc: 92.41  error: 7.59
+registrazioni: 7  acc: 93.42  error: 6.58
+registrazioni: 8  acc: 93.78  error: 6.22
+registrazioni: 9  acc: 93.36  error: 6.64
+registrazioni: 10 acc: 93.67  error: 6.33

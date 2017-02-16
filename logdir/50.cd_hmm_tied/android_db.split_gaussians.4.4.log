@@ -302,4 +302,4 @@ INFO: main.c(151): output n_density == 8
 INFO: s3gau_io.c(228): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_initial/means [281x1x8 array]
 INFO: s3gau_io.c(228): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_initial/variances [281x1x8 array]
 
-Mon Jan 23 11:22:47 2017
+Thu Feb 16 16:24:56 2017

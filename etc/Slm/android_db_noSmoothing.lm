@@ -1,0 +1,74 @@
+
+\data\
+ngram 1=24
+ngram 2=40
+
+\1-grams:
+-0.3881802	</s>
+-99	<s>	-99
+-1.041393	apri	-99
+-1.643453	calcolatrice	-99
+-1.643453	calendario	-99
+-1.643453	cancella	-99
+-1.643453	chiama	-99
+-1.643453	cinque	-99
+-1.643453	componi	-99
+-1.643453	contatti	-99
+-1.643453	dove	-99
+-1.643453	due	-99
+-1.643453	impostazioni	-99
+-1.643453	mi	-99
+-1.643453	nove	-99
+-1.342423	numero	-99
+-1.643453	otto	-99
+-1.643453	quattro	-99
+-1.643453	sei	-99
+-1.643453	sette	-99
+-1.643453	tre	-99
+-1.643453	trovo	-99
+-1.643453	uno	-99
+-1.643453	zero	-99
+
+\2-grams:
+-0.6532125	<s> apri
+-1.255273	<s> cancella
+-1.255273	<s> chiama
+-1.255273	<s> cinque
+-1.255273	<s> componi
+-1.255273	<s> dove
+-1.255273	<s> due
+-1.255273	<s> nove
+-1.255273	<s> otto
+-1.255273	<s> quattro
+-1.255273	<s> sei
+-1.255273	<s> sette
+-1.255273	<s> tre
+-1.255273	<s> uno
+-1.255273	<s> zero
+-0.60206	apri calcolatrice
+-0.60206	apri calendario
+-0.60206	apri contatti
+-0.60206	apri impostazioni
+0	calcolatrice </s>
+0	calendario </s>
+0	cancella numero
+0	chiama </s>
+0	cinque </s>
+0	componi numero
+0	contatti </s>
+0	dove mi
+0	due </s>
+0	impostazioni </s>
+0	mi trovo
+0	nove </s>
+0	numero </s>
+0	otto </s>
+0	quattro </s>
+0	sei </s>
+0	sette </s>
+0	tre </s>
+0	trovo </s>
+0	uno </s>
+0	zero </s>
+
+\end\

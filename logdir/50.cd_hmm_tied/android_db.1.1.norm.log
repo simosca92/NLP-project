@@ -28,5 +28,5 @@ INFO: s3mixw_io.c(233): Wrote /home/simone/Documenti/Elaborazione/project-NLP/mo
 INFO: s3tmat_io.c(176): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_200/transition_matrices [27x3x4 array]
 INFO: s3gau_io.c(228): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_200/means [281x1x1 array]
 INFO: s3gau_io.c(228): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_200/variances [281x1x1 array]
-Mon Jan 23 11:22:23 2017
+Thu Feb 16 16:24:35 2017
 Current Overall Likelihood Per Frame = -145.232988774402

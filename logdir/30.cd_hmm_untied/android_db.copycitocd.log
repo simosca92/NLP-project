@@ -294,4 +294,4 @@ INFO: s3gau_io.c(228): Wrote /home/simone/Documenti/Elaborazione/project-NLP/mod
 INFO: main.c(561): Writing dest /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/variances
 INFO: s3gau_io.c(228): Wrote /home/simone/Documenti/Elaborazione/project-NLP/model_parameters/android_db.cd_cont_untied/variances [633x1x1 array]
 [mx   630(0) +=    78] [mg   630(0) <-    78] [mx   631(1) +=    79] [mg   631(1) <-    79] [mx   632(2) +=    80] [mg   632(2) <-    80] 
-Mon Jan 23 11:22:10 2017
+Thu Feb 16 16:24:23 2017
